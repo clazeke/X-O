@@ -1,0 +1,50 @@
+{
+    "Mindi": {
+        "X": {
+            "Wins": 1,
+            "Losses": 0,
+            "Draws": 4
+        },
+        "O": {
+            "Wins": 0,
+            "Losses": 2,
+            "Draws": 1
+        }
+    },
+    "Ebuka": {
+        "X": {
+            "Wins": 0,
+            "Losses": 0,
+            "Draws": 0
+        },
+        "O": {
+            "Wins": 0,
+            "Losses": 1,
+            "Draws": 1
+        }
+    },
+    "Nash's heir": {
+        "X": {
+            "Wins": 2,
+            "Losses": 0,
+            "Draws": 1
+        },
+        "O": {
+            "Wins": 0,
+            "Losses": 0,
+            "Draws": 3
+        }
+    },
+    "Laa": {
+        "X": {
+            "Wins": 0,
+            "Losses": 0,
+            "Draws": 0
+        },
+        "O": {
+            "Wins": 0,
+            "Losses": 0,
+            "Draws": 0
+        }
+    }
+}
